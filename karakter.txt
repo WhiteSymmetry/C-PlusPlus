@@ -1,0 +1,11 @@
+C++'da kullanılan sayı ve karakter değerleri
+ 
+
+int (16 bit) -32768 ÷ 32767
+int (32 bit) -2147483648 + 2147483647
+short -32768 + 32767
+long -2147483648 + 2147483647
+float 1,2E-38 + 3,4E+38
+double 2,2E-308 +1,8E+308
+long double 3,4E-4932 + 1,2E+4932
+char 256 karakter
