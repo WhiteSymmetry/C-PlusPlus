@@ -1,0 +1,16 @@
+KuKullandığımız işaretler:
+
+
+\\n Bir satır aşaya indirir
+\\a Zil sesi verir (bell)
+\\b Geri tuşu. Backspace
+\\f - Formfeed işaretini verir (&#9792)
+\\r - Kendinden itibaret satır başından yazar. Carriage return
+\\t - Tablo haline sokar (tabular)
+\\v - Düşey tablolar veya dişil işareti kor (&#9794)
+\\' - Kesme imi Apostrof
+\\" - Tırnak işareti kor
+\\? - Soru İşareti (?): Question mark, znak zapytania.
+\\\\ - Ters eğik çizgi. Backslash
+\\0oo - Kendisinden sonrakini satır başı yapar.
+\\xhhh - x''den sonra 0-9 ve a-f arasında Heksadesimal (On altı tabanlı sayı sistemi, hexadesimal) değer girilebilir xffe gib
