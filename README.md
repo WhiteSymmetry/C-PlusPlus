@@ -1,16 +1,17 @@
 # C++
 ==================
 
-#C++ Samples/Örnekler
+# C++ Samples/Örnekler
+
 Burada C++ üzerine basit fakat Türkçe ve Türkçe karakterlere sahip örnekler verilecektir.
 
-#Compiler
+# Compiler
 
-#Interactive/İnteraktif: 
+# Interactive/İnteraktif: 
 
 http://cpp.sh/
 
-#Compilers/Derleyiciler:
+# Compilers/Derleyiciler:
 
 http://www.onlinecompiler.net/ccplusplus
 
