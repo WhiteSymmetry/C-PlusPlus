@@ -1,14 +1,18 @@
-Cplusplus_Ornekler
+# C++
 ==================
 
-C++ Örnekler
+#C++ Samples/Örnekler
 Burada C++ üzerine basit fakat Türkçe ve Türkçe karakterlere sahip örnekler verilecektir.
 
-Compiler
+#Compiler
 
-Interactive/İnteraktif: http://cpp.sh/
+#Interactive/İnteraktif: 
 
-Compiler/Derleyen: http://www.onlinecompiler.net/ccplusplus
+http://cpp.sh/
+
+#Compilers/Derleyiciler:
+
+http://www.onlinecompiler.net/ccplusplus
 
 https://godbolt.org/
 
