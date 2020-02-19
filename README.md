@@ -6,9 +6,9 @@ Burada C++ üzerine basit fakat Türkçe ve Türkçe karakterlere sahip örnekle
 
 Compiler
 
-İnteraktif: http://cpp.sh/
+Interactive/İnteraktif: http://cpp.sh/
 
-Derleyen: http://www.onlinecompiler.net/ccplusplus
+Compiler/Derleyen: http://www.onlinecompiler.net/ccplusplus
 
 https://godbolt.org/
 
